@@ -1,4 +1,4 @@
-package algorithm01;
+package algo01;
 
 public class Remind01 {
 	private String name;

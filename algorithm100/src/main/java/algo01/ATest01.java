@@ -1,4 +1,4 @@
-package algorithm01;
+package algo01;
 
 public class ATest01 {
 	private String name;
