@@ -1,7 +1,7 @@
 package algo02;
 // 피보나치 수열
 // a의 n승 = a의n승의-1 + a의n승의 -2
-// 1 1 2 3 4 8 13 21 34...
+// 1 1 2 3 5 8 13 21 34 ...
 public class Main {
 	public static void main(String[] args) {
 		
